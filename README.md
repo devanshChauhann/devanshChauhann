@@ -22,17 +22,15 @@ and somehow end up becoming full AI projects. 🚀
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/devanshchauhan" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+
+<a href="https://www.linkedin.com/in/devanshchauhann/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Devansh Chauhan LinkedIn" height="30" width="40" />
 </a>
 
-<a href="https://leetcode.com/" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
+<a href="https://leetcode.com/u/Devansh_chauhan_03/" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="Devansh Chauhan LeetCode" height="30" width="40" />
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-</a>
 </p>
 
 ---
